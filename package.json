@@ -1,0 +1,19 @@
+{
+  "name": "flexbox-stylus",
+  "version": "1.0.0",
+  "description": "### A stylus library containing functions for generating flexbox prefixes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nozzle/flexbox-stylus.git"
+  },
+  "author": "Tanner Linsley <tannerlinsley@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nozzle/flexbox-stylus/issues"
+  },
+  "homepage": "https://github.com/nozzle/flexbox-stylus"
+}
